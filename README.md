@@ -2,4 +2,4 @@
 
 В коде (вот прям тут) ничего качать не надо.
 
-Обновление происзвожу именно в [Reliz](https://github.com/9564519/Check_available_RAM_v2/releases/tag/Reliz)
+Обновление произвожу именно в [Reliz](https://github.com/9564519/Check_available_RAM_v2/releases/tag/Reliz)
